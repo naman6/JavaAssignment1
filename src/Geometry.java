@@ -35,4 +35,5 @@ public class Geometry {
         double y = scanner.nextDouble();
         return new Point(x, y);
     }
+
 }
